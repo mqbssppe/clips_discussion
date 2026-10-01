@@ -8,7 +8,6 @@ type = 'l'
 #-------------------------------------------------
 library("telescope")
 library("label.switching")
-library("bmixture")
 library("mvtnorm")
 library("RColorBrewer")
 library("mclust")
